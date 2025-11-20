@@ -1,0 +1,31 @@
+# 构建输出目录
+bin/
+obj/
+
+# 用户特定文件
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 缓存/临时文件
+.vs/
+*.dbmdl
+*.bak
+*.log
+
+# NuGet 包
+*.nupkg
+packages/
+*.snupkg
+
+# 证书/密钥文件（如果不想提交）
+*.pfx
+
+# 调试文件
+*.pidb
+*.svclog
+*.vshost.*
+
+# 发布文件
+publish/
