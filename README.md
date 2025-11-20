@@ -1,0 +1,2 @@
+# PreventLockScreen
+Prevent lock screen
