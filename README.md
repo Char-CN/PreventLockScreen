@@ -4,6 +4,11 @@ PreventLockScreen 是一个极简的 Windows 工具，用于 **防止系统自�
 整个程序只有 **32KB 大小的 exe 文件**，无需安装，双击即可运行。  
 
 ---
+## 极致运行
+<img width="181" height="134" alt="image" src="https://github.com/user-attachments/assets/aa3f9f77-9c19-4534-a4f5-d83725a563b5" />
+
+
+---
 
 ## ✨ 功能特点  
 - **防止锁屏**：阻止 Windows 因长时间无操作而进入锁屏。  
