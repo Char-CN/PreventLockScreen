@@ -5,7 +5,7 @@ PreventLockScreen 是一个极简的 Windows 工具，用于 **防止系统自�
 
 ---
 ## 极致运行
-<img alt="image" src="https://github.com/user-attachments/assets/aa3f9f77-9c19-4534-a4f5-d83725a563b5" />
+<img width="100px" height="80px" alt="image" src="https://github.com/user-attachments/assets/aa3f9f77-9c19-4534-a4f5-d83725a563b5" />
 
 
 ---
