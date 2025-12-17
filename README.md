@@ -1,10 +1,11 @@
 # PreventLockScreen  
 
-PreventLockScreen 是一个极简的 Windows 工具，用于 **防止系统自动锁屏**。  
-整个程序只有 **32KB 大小的 exe 文件**，无需安装，双击即可运行。  
+**防止系统自动锁屏**工具，
+用于公司电脑自动锁屏且时间无法自行调整的情况。
+**32KB**极致轻巧，绿色双击执行。
 
 ---
-## 极致运行
+## 🚄 极致运行
 <img width="145" height="107" alt="image" src="https://github.com/user-attachments/assets/275ebf6e-2dcc-484f-bd00-3cc5489dd401" />
 
 
